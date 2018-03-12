@@ -1,3 +1,4 @@
 # vars file for docker-compose
 ---
 docker_compose_downloads_path: /var/lib/ansible/docker-compose/downloads
+docker_compose_configs_path: /opt/docker-compose
